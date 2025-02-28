@@ -1,4 +1,15 @@
-﻿1.1.145.149
+﻿#
+# iplist.ipset
+#
+# ipv4 hash:ip ipset
+#
+# DPT threat intelligence feed
+#
+# Maintainer	: DPT
+# Category	: Malware
+# Confidence	: 10
+#
+1.1.145.149
 1.1.145.149
 1.12.254.218
 1.12.254.218
